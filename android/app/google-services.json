@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396873502683",
+    "project_id": "projetotdm-chat",
+    "storage_bucket": "projetotdm-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396873502683:android:de356dbc3903dc40cbe1fe",
+        "android_client_info": {
+          "package_name": "com.example.projetotdm_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396873502683-2jcb894ok19t2e45tdppkjs8jovc5ckv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projetotdm_chat",
+            "certificate_hash": "40e95ae272eed605aa4be27681f304d83f582cee"
+          }
+        },
+        {
+          "client_id": "396873502683-huqc2idkvirpe9hq258epc3c22ugqm9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWOAPzBXfSLna-bZr1BsSAHnNn5OfRsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396873502683-huqc2idkvirpe9hq258epc3c22ugqm9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
